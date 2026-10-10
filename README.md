@@ -70,7 +70,9 @@ ReVanced Official, **anddea (RVX)**, **Morphe**, and **Piko/crimera** — switch
 | 🎵 TikTok / Asia | 10 | 🎮 Twitch | — |
 | 💬 Messenger | 4 | 📷 Google Photos | — |
 | 🏃 Strava | 8 | ☁️ SoundCloud | 3 |
-| 📘 Facebook | 2 | 🎨 + 70 more… | — |
+| 📘 Facebook | 2 | 📋 [**Full list →**](COMPLETE_APP_FEATURES.md) | **77 apps** |
+
+> 📖 **Every app + what gets unlocked:** see [**COMPLETE_APP_FEATURES.md**](COMPLETE_APP_FEATURES.md) — the complete catalog with per-app unlocked features.
 
 ---
 
