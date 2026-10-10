@@ -95,11 +95,15 @@ ReVanced Official, **anddea (RVX)**, **Morphe**, and **Piko/crimera** — switch
 
 ## 🖼️ Screenshots
 
-> *Screenshots coming soon — the app is in active development.*
+> Real screenshots captured on Samsung Galaxy A23 (SM-A236E), v1.25.7
 
 | Dashboard | Select an App | Patcher |
 |---|---|---|
-| *—* | *—* | *—* |
+| <img src="screenshots/screen_dashboard_final.png" width="250"> | <img src="screenshots/screen_select_app_list.png" width="250"> | <img src="screenshots/screen_patcher.png" width="250"> |
+
+| MicroG RE | Settings |
+|---|---|
+| <img src="screenshots/screen_microg_re_card.png" width="250"> | <img src="screenshots/screen_settings.png" width="250"> |
 
 ---
 
